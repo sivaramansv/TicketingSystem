@@ -182,7 +182,7 @@ public class SeatHold implements TicketService {
 	}
 
 	/**
-	 * This method finds and holds seats for a customer
+	 * This method reserves the seats held by the customer
 	 * 
 	 * @param seatHoldId
 	 * @param customerEmail
