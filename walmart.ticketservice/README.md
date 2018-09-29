@@ -11,7 +11,7 @@ Walmart Ticket Service system is a simple ticketing system that was built with t
 The system was unit tested with JUnit testing framework. It should be present src/test folder.
 
 # How to run the program
-Run the snapshot jar:
+Download and run the snapshot jar from the account:
 
 java -cp target\walmart.ticketservice-0.0.1-SNAPSHOT.jar app.Main
 
